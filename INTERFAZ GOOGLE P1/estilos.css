@@ -1,0 +1,14 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav{
+    text-align: right;
+}
+footer{
+    background-color: lightgray;
+}
